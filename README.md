@@ -1,1 +1,2 @@
-adding empty readme for now 
+This is my first Git repository
+Author - Surabhi Asati
